@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Polish-LFG
 
 
 ## Data Format
